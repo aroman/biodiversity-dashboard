@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import ImpactMetric from './ImpactMetric.js'
 import './Dashboard.css';
 
-import TourismIcon from './tourism.svg'
-import JobGrowthIcon from './job-growth.svg'
-import HouseholdIncomeIcon from './household-income.svg'
-import ExportsIcon from './exports.svg'
+import TourismIcon from './icons/tourism.svg'
+import JobGrowthIcon from './icons/job-growth.svg'
+import HouseholdIncomeIcon from './icons/household-income.svg'
+import ExportsIcon from './icons/exports.svg'
 
 class Dashboard extends Component {
   render() {
