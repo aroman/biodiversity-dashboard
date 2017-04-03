@@ -33,11 +33,12 @@
 
 .Impact-panel {
   padding-left: 25px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .Impact-panel-header {
   display: flex;
+  padding-bottom: 25px;
 }
 
 .Impact-panel-header-icon {
@@ -48,4 +49,19 @@
   margin-top: 5px;
   font-size: 28px;
   margin-left: 20px;
+}
+
+.Impact-panel-stats {
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  font-weight: 700;
+}
+
+.Impact-panel-stats-value-container {
+  display: flex;
+}
+
+.Impact-panel-stats-value {
+  margin-left: 10px;
 }
