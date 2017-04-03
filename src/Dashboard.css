@@ -1,0 +1,33 @@
+.Dashboard {
+  font-family: 'Lato', sans-serif;
+}
+
+.Column {
+  box-sizing: border-box;
+  width: 480px;
+  height: 1080px;
+  border: 1px solid black;
+  padding-top: 30px;
+  /*padding-left: 20px;*/
+}
+
+.Column-left {
+  float: left;
+  height: 1080px;
+}
+
+.Column-right {
+  float: right;
+}
+
+.Column-center {
+  display: inline-block;
+  width: 960px;
+}
+
+.Column-title {
+  font-size: 46px;
+  font-weight: 300;
+  text-align: center;
+
+}
