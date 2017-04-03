@@ -8,7 +8,6 @@
   height: 1080px;
   border: 1px solid black;
   padding-top: 30px;
-  /*padding-left: 20px;*/
 }
 
 .Column-left {
@@ -29,5 +28,24 @@
   font-size: 46px;
   font-weight: 300;
   text-align: center;
+  padding-bottom: 60px;
+}
 
+.Impact-panel {
+  padding-left: 25px;
+  margin-bottom: 50px;
+}
+
+.Impact-panel-header {
+  display: flex;
+}
+
+.Impact-panel-header-icon {
+  height: 40px;
+}
+
+.Impact-panel-header-label {
+  margin-top: 5px;
+  font-size: 28px;
+  margin-left: 20px;
 }
