@@ -13,11 +13,13 @@
   }
 }
 
-.Doodad {
+.CircleThing {
   /*width: 400px;*/
+  padding-right: 75px;
+  margin-top: 20px;
 }
 
-.Doodad img {
+.CircleThing img {
   height: 50px;
   animation: 1s pulsate ease-in-out infinite;
   margin: 10px;
@@ -27,9 +29,39 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 }
 
 .row {
   display: flex;
   justify-content: space-around;
+}
+
+.Doodad-label {
+  position: absolute;
+  font-weight: 700;
+}
+
+.Doodad-label-1 {
+  left: 185px;
+  top: 75px;
+}
+
+.Doodad-label-2 {
+  left: -45px;
+  top: 75px;
+}
+
+.Doodad-label-3 {
+  left: -40px;
+  top: 150px;
+}
+
+.Doodad-label-4 {
+  left: 173px;
+  top: 150px;
+}
+
+.Doodad-label-5 {
+  top: -15px;
 }

@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import * as SL from 'react-sparklines'
-import { boxMullerRandom, randomData } from './DataUtils.js'
 import * as Constants from './Constants.js'
 import SparkCombo from './SparkCombo.js'
 import DoodadImage from './icons/doodad.png'
@@ -13,18 +12,27 @@ class CircleThing extends Component {
   render() {
     const size = 175
     return (
-      <div className="Doodad">
+      <div className="CircleThing">
         <div className="container">
+          <div className="Doodad-label Doodad-label-1">habitat</div>
+          <div className="Doodad-label Doodad-label-2">nutrition</div>
+          <div className="Doodad-label Doodad-label-3">predators</div>
+          <div className="Doodad-label Doodad-label-4">reproduction</div>
+          <div className="Doodad-label Doodad-label-5">respiration</div>
           <div className="row" style={{width: size/2, marginBottom: -(size/10)}}>
             <img src={DoodadImage} alt=""/>
           </div>
           <div className="row" style={{width: size*1.15}}>
+            {/* <div className="Doodad-label Doodad-label-2">Foobar</div> */}
             <img src={DoodadImage} alt=""/>
             <img src={DoodadImage} alt=""/>
+            {/* <div className="Doodad-label Doodad-label-3">Foobar</div> */}
           </div>
           <div className="row" style={{width: size*0.8}}>
+            {/* <div className="Doodad-label Doodad-label-4 ">Foobar</div> */}
             <img src={DoodadImage} alt=""/>
             <img src={DoodadImage} alt=""/>
+            {/* <div className="Doodad-label Doodad-label-5">Foobar</div> */}
           </div>
         </div>​
       </div>
@@ -34,15 +42,6 @@ class CircleThing extends Component {
 }
 
 class SpeciesMetric extends Component {
-
-  constructor(props) {
-      super(props);
-      this.state = { data: randomData(20) };
-      setInterval(() =>
-        this.setState({
-            data: this.state.data.concat([boxMullerRandom()])
-        }), Constants.INTERVAL);
-  }
 
   render() {
     const {label, icon} = this.props
@@ -57,19 +56,6 @@ class SpeciesMetric extends Component {
         <div className="SpeciesMetric-contents">
           <CircleThing/>
           <SparkCombo/>
-
-          {/* <div style={{width: 200}}>
-            <SL.Sparklines data={this.state.data} limit={20}>
-                <SL.SparklinesLine />
-                <SL.SparklinesSpots />
-            </SL.Sparklines>
-          </div>
-          <div style={{width: 100}}>
-            <SL.Sparklines data={this.state.data} limit={20}>
-                <SL.SparklinesLine />
-                <SL.SparklinesSpots />
-            </SL.Sparklines>
-          </div> */}
         </div>
       </div>
     )

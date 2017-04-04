@@ -1,6 +1,8 @@
 .SparkCombo-graphs {
   display: flex;
   align-items: flex-end;
+  width: 400px;
+  margin-top: 10px;
 }
 
 .SparkCombo-graph-label {

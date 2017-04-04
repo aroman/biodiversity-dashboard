@@ -1,111 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="480px" height="877px" viewBox="0 0 480 877" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="480px" height="878px" viewBox="0 0 480 878" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-    <title>Artboard</title>
+    <title>water</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Artboard">
-            <g id="dashboard_latest-(1)">
-                <g id="Water_Level" transform="translate(0.000000, 142.370130)" fill-rule="nonzero">
-                    <rect id="Rectangle-path" fill="#72C4D6" x="0.996047431" y="0.749816017" width="476.869565" height="733.177695"></rect>
-                    <path d="M477.391304,1.20540043 L477.391304,733.462435 L1.4229249,733.462435 L1.4229249,1.20540043 L477.343874,1.20540043 L477.391304,1.20540043 Z M478.29249,0.256266234 L0.4743083,0.256266234 L0.4743083,734.411569 L478.29249,734.411569 L478.29249,0.256266234 Z" id="Shape" fill="#CCCCCC"></path>
-                </g>
-                <g id="Layer_274" transform="translate(0.000000, 788.730519)" stroke="#CCCCCC" stroke-width="0.948616601" fill="#FFFFFF" fill-rule="nonzero">
-                    <path d="M0.540711462,2.94231602 C0.540711462,2.94231602 25.8213439,-2.10707792 64.629249,2.94231602 C64.629249,2.94231602 82.0743083,5.20125541 122.817391,2.94231602 C122.817391,2.94231602 136.392095,-1.01557359 186.839526,2.32537879 C186.839526,2.32537879 237.27747,6.26428571 276.085375,2.32537879 C276.085375,2.32537879 293.549407,-0.42711039 351.747036,2.39181818 C351.747036,2.39181818 379.010277,-0.151861472 419.75336,0.702359307 C419.75336,0.702359307 462.934387,0.303722944 479.06087,2.29690476 L479.06087,88.1081277 L0.4743083,88.1081277 L0.540711462,2.94231602 Z" id="Shape"></path>
-                </g>
-                <g id="Layer_271" transform="translate(449.644269, 334.095238)" stroke="#FFFFFF" stroke-width="2.8458498">
-                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
-                </g>
-                <g id="Layer_270" transform="translate(450.592885, 604.598485)" stroke="#FFFFFF" stroke-width="2.8458498">
-                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
-                </g>
-                <g id="Layer_269" transform="translate(450.592885, 741.273810)" stroke="#EA7583" stroke-width="2.8458498">
-                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
-                </g>
-                <g id="Layer_268" transform="translate(55.968379, 367.314935)" fill-rule="nonzero" fill="#FFFFFF" opacity="0.95">
-                    <ellipse id="Oval" transform="translate(92.925356, 92.809294) rotate(-13.980000) translate(-92.925356, -92.809294) " cx="92.9253564" cy="92.8092943" rx="75.9652174" ry="76.0066667"></ellipse>
-                </g>
-                <g id="Layer_267" transform="translate(170.750988, 409.076840)" fill-rule="nonzero" fill="#72C4D6" opacity="0.37">
-                    <g id="Group">
-                        <ellipse id="Oval" cx="7.01976285" cy="7.68798701" rx="6.81106719" ry="6.81478355"></ellipse>
+        <g id="water">
+            <g id="Page-1">
+                <g>
+                    <g>
+                        <g id="water">
+                            <g id="dashboard_latest-(1)">
+                                <g id="Water_Level" transform="translate(0.000000, 142.370130)">
+                                    <path d="M477.391304,1.20540043 L477.391304,733.462435 L1.4229249,733.462435 L1.4229249,1.20540043 L477.343874,1.20540043 L477.391304,1.20540043 Z M478.29249,0.256266234 L0.4743083,0.256266234 L0.4743083,734.411569 L478.29249,734.411569 L478.29249,0.256266234 Z" id="Shape"></path>
+                                </g>
+                                <g id="Layer_274" transform="translate(0.000000, 785.730519)" stroke="#CCCCCC" stroke-width="0.948616601" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M0.540711462,5.94231602 C0.540711462,5.94231602 25.8213439,0.89292208 64.629249,5.94231602 L126,17.769481 L186.839526,5.32537879 C186.839526,5.32537879 236.692095,13.2083879 275.5,9.269481 L349,0.769481 C349,0.769481 376.756917,8.41526022 417.5,9.269481 C417.5,9.269481 462.934387,3.30372294 479.06087,5.29690476 L479.06087,91.1081277 L0.4743083,91.1081277 L0.540711462,5.94231602 Z" id="Shape"></path>
+                                </g>
+                                <path d="M450.118577,334 L477.628458,334" id="Shape" stroke="#000000" stroke-width="3.5"></path>
+                                <path d="M451.067194,605 L478.577075,605" id="Shape" stroke="#000000" stroke-width="3.5"></path>
+                                <path d="M451.067194,742 L478.577075,742" id="Shape" stroke="#000000" stroke-width="3.5"></path>
+                                <g id="Layer_268" opacity="0.95" transform="translate(56.000000, 367.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                                    <ellipse id="Oval" transform="translate(92.965217, 93.006667) rotate(-13.980000) translate(-92.965217, -93.006667) " cx="92.9652174" cy="93.0066667" rx="75.9652174" ry="76.0066667"></ellipse>
+                                </g>
+                                <ellipse id="Oval" fill="#72C4D6" fill-rule="nonzero" cx="177.770751" cy="416.764827" rx="6.81106719" ry="6.81478355"></ellipse>
+                                <g id="Layer_265" transform="translate(57.865613, 112.946970)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.502766798" y="0.341688312" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_264" transform="translate(57.865613, 126.234848)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.502766798" y="0.227792208" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_263" transform="translate(57.865613, 137.624459)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.502766798" y="0.265757576" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_262" transform="translate(28.000000, 0.000000)" stroke="#808080" stroke-width="2.8458498" fill="#FFFFFF" fill-rule="nonzero">
+                                    <path d="M60.7114625,144.648052 L60.7114625,15.7461364 C60.7114625,7.35905886 53.9161006,0.559989177 45.5335968,0.559989177 C37.1510931,0.559989177 30.3557312,7.35905886 30.3557312,15.7461364 L30.3557312,144.894827 C8.91825064,152.760448 -3.23957972,175.437383 2.0679639,197.65752 C7.37550753,219.877656 28.467509,234.603804 51.1429725,231.921023 C73.818436,229.238241 90.8959691,209.996175 90.8774704,187.150281 C91.0315813,167.957487 78.8731805,150.826975 60.7114625,144.648052 L60.7114625,144.648052 Z" id="Shape"></path>
+                                </g>
+                                <g id="Layer_261" transform="translate(65.454545, 10.440476)" stroke="#808080" fill-rule="nonzero" stroke-width="0.948616601" fill="#FFFFFF">
+                                    <rect id="Rectangle-path" x="0.161264822" y="0.256266234" width="14.0395257" height="164.181234" rx="4.63873518"></rect>
+                                </g>
+                                <g id="Layer_260" transform="translate(82.529644, 31.321429)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.23728355" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_259" transform="translate(82.529644, 42.711039)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.275248918" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_258" transform="translate(82.529644, 54.100649)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.303722944" width="3.3770751" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_257" transform="translate(82.529644, 65.490260)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.341688312" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_256" transform="translate(82.529644, 78.778139)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.23728355" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_255" transform="translate(82.529644, 90.167749)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.265757576" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Layer_254" transform="translate(82.529644, 101.557359)" fill-rule="nonzero" fill="#808080">
+                                    <rect id="Rectangle-path" x="0.863241107" y="0.303722944" width="4.3256917" height="1.87928571"></rect>
+                                </g>
+                                <g id="Mercury_Level" transform="translate(43.636364, 95.862554)" fill-rule="nonzero" fill="#EA7583">
+                                    <rect id="Rectangle-path" x="22.5581028" y="0.778290043" width="12.8727273" height="81.3123268" rx="4.63873518"></rect>
+                                    <ellipse id="Oval" stroke="#808080" stroke-width="0.948616601" cx="29.5778656" cy="90.7087554" rx="28.970751" ry="28.9865584"></ellipse>
+                                    <rect id="Rectangle-path" x="22.5675889" y="57.2138095" width="13.1762846" height="14.8254762"></rect>
+                                </g>
+                                <g id="Layer_250" transform="translate(378.498024, 187.928571)" font-size="30.3557312" font-family="Lato-Bold, Lato" fill="#000000" font-weight="bold">
+                                    <g id="100">
+                                        <text>
+                                            <tspan x="0.18972332" y="30.9111688">100</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Layer_249" transform="translate(390.830040, 314.163420)" font-size="30.3557312" font-family="Lato-Bold, Lato" fill="#000000" font-weight="bold">
+                                    <g id="80">
+                                        <text>
+                                            <tspan x="0.028458498" y="30.2657576">80</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Layer_248" transform="translate(27.881423, 446.093074)" font-size="30.3557312" fill="#000000">
+                                    <g id="60">
+                                        <text font-family="Lato-Bold, Lato" font-weight="bold">
+                                            <tspan x="362.796838" y="30.9111688">60</tspan>
+                                        </text>
+                                        <text id="Salinity-level:-15-g" font-family="Lato-Regular, Lato" font-weight="normal">
+                                            <tspan x="0" y="407">Salinity level</tspan>
+                                            <tspan x="164.861976" y="407" font-family="Lato-Semibold, Lato" font-weight="500">:  </tspan>
+                                            <tspan x="187.689486" y="407" font-family="Lato-Bold, Lato" font-weight="bold">15 g/kg</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Layer_247" transform="translate(390.830040, 582.768398)" font-size="30.3557312" font-family="Lato-Bold, Lato" fill="#000000" font-weight="bold">
+                                    <g id="40">
+                                        <text>
+                                            <tspan x="0.483794466" y="30.0569481">40</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <g id="Layer_246" transform="translate(390.830040, 718.494589)" font-size="30.3557312" font-family="Lato-Bold, Lato" fill="#000000" font-weight="bold">
+                                    <g id="20">
+                                        <text>
+                                            <tspan x="0.028458498" y="30.389145">20</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <path d="M451.067194,464 L478.577075,464" id="Shape" stroke="#FF6565" stroke-width="3.5"></path>
+                                <g id="Layer_222" transform="translate(450.592885, 206.911255)" stroke="#000000" stroke-width="2.8458498">
+                                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
+                                </g>
+                                <g id="Layer_195" transform="translate(87.272727, 42.711039)" fill-rule="nonzero" fill="#EA7583">
+                                    <rect id="Rectangle-path" x="0.455335968" y="0.275248918" width="25.9636364" height="1.87928571"></rect>
+                                </g>
+                            </g>
+                        </g>
                     </g>
                 </g>
-                <g id="Layer_265" transform="translate(57.865613, 112.946970)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.502766798" y="0.341688312" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_264" transform="translate(57.865613, 126.234848)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.502766798" y="0.227792208" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_263" transform="translate(57.865613, 137.624459)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.502766798" y="0.265757576" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_262" transform="translate(27.509881, 0.000000)" stroke="#808080" stroke-width="2.8458498" fill="#FFFFFF" fill-rule="nonzero">
-                    <path d="M60.7114625,144.648052 L60.7114625,15.7461364 C60.7114625,7.35905886 53.9161006,0.559989177 45.5335968,0.559989177 C37.1510931,0.559989177 30.3557312,7.35905886 30.3557312,15.7461364 L30.3557312,144.894827 C8.91825064,152.760448 -3.23957972,175.437383 2.0679639,197.65752 C7.37550753,219.877656 28.467509,234.603804 51.1429725,231.921023 C73.818436,229.238241 90.8959691,209.996175 90.8774704,187.150281 C91.0315813,167.957487 78.8731805,150.826975 60.7114625,144.648052 L60.7114625,144.648052 Z" id="Shape"></path>
-                </g>
-                <g id="Layer_261" transform="translate(65.454545, 10.440476)" stroke="#808080" fill-rule="nonzero" stroke-width="0.948616601" fill="#FFFFFF">
-                    <rect id="Rectangle-path" x="0.161264822" y="0.256266234" width="14.0395257" height="164.181234" rx="4.63873518"></rect>
-                </g>
-                <g id="Layer_260" transform="translate(82.529644, 31.321429)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.23728355" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_259" transform="translate(82.529644, 42.711039)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.275248918" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_258" transform="translate(82.529644, 54.100649)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.303722944" width="3.3770751" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_257" transform="translate(82.529644, 65.490260)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.341688312" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_256" transform="translate(82.529644, 78.778139)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.23728355" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_255" transform="translate(82.529644, 90.167749)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.265757576" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Layer_254" transform="translate(82.529644, 101.557359)" fill-rule="nonzero" fill="#808080">
-                    <rect id="Rectangle-path" x="0.863241107" y="0.303722944" width="4.3256917" height="1.87928571"></rect>
-                </g>
-                <g id="Mercury_Level" transform="translate(43.636364, 95.862554)" fill-rule="nonzero" fill="#EA7583">
-                    <rect id="Rectangle-path" x="22.5581028" y="0.778290043" width="12.8727273" height="81.3123268" rx="4.63873518"></rect>
-                    <ellipse id="Oval" stroke="#808080" stroke-width="0.948616601" cx="29.5778656" cy="90.7087554" rx="28.970751" ry="28.9865584"></ellipse>
-                    <rect id="Rectangle-path" x="22.5675889" y="57.2138095" width="13.1762846" height="14.8254762"></rect>
-                </g>
-                <g id="Layer_250" transform="translate(378.498024, 187.928571)" font-size="30.3557312" font-family="ProximaNova-Bold, Proxima Nova" fill="#FFFFFF" font-weight="bold">
-                    <text id="100">
-                        <tspan x="0.18972332" y="30.9111688">100</tspan>
-                    </text>
-                </g>
-                <g id="Layer_249" transform="translate(390.830040, 314.163420)" font-size="30.3557312" font-family="ProximaNova-Bold, Proxima Nova" fill="#FFFFFF" font-weight="bold">
-                    <text id="80">
-                        <tspan x="0.028458498" y="30.2657576">80</tspan>
-                    </text>
-                </g>
-                <g id="Layer_248" transform="translate(389.881423, 446.093074)" font-size="30.3557312" font-family="ProximaNova-Bold, Proxima Nova" fill="#FFFFFF" font-weight="bold">
-                    <text id="60">
-                        <tspan x="0.796837945" y="30.9111688">60</tspan>
-                    </text>
-                </g>
-                <g id="Layer_247" transform="translate(390.830040, 582.768398)" font-size="30.3557312" font-family="ProximaNova-Bold, Proxima Nova" fill="#FFFFFF" font-weight="bold">
-                    <text id="40">
-                        <tspan x="0.483794466" y="30.0569481">40</tspan>
-                    </text>
-                </g>
-                <g id="Layer_246" transform="translate(390.830040, 718.494589)" font-size="30.3557312" font-family="ProximaNova-Bold, Proxima Nova" fill="#FFFFFF" font-weight="bold">
-                    <text id="20">
-                        <tspan x="0.028458498" y="30.389145">20</tspan>
-                    </text>
-                </g>
-                <g id="Layer_223" transform="translate(450.592885, 464.126623)" stroke="#FFFFFF" stroke-width="2.8458498">
-                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
-                </g>
-                <g id="Layer_222" transform="translate(450.592885, 206.911255)" stroke="#EA7583" stroke-width="2.8458498">
-                    <path d="M0.4743083,0.730833333 L27.9841897,0.730833333" id="Shape"></path>
-                </g>
-                <g id="Layer_195" transform="translate(87.272727, 42.711039)" fill-rule="nonzero" fill="#EA7583">
-                    <rect id="Rectangle-path" x="0.455335968" y="0.275248918" width="25.9636364" height="1.87928571"></rect>
-                </g>
+            </g>
+            <text id="12-ppm" fill="#000000" font-family="Lato-Bold, Lato" font-size="30.3557312" font-weight="bold">
+                <tspan x="99" y="464">12 ppm</tspan>
+            </text>
+            <g id="Group" transform="translate(109.000000, 480.000000)" fill="#000000">
+                <text id="O-level" font-family="Lato-Regular, Lato" font-size="24" font-weight="normal" line-spacing="33">
+                    <tspan x="0" y="24">O</tspan>
+                    <tspan x="19.212" y="24">  </tspan>
+                    <tspan x="31.5" y="24">level</tspan>
+                </text>
+                <path d="M24.616,33.416 C24.7760008,33.416 24.9019995,33.4599996 24.994,33.548 C25.0860005,33.6360004 25.132,33.7599992 25.132,33.92 L25.132,34.844 L19,34.844 L19,34.328 C19,34.2239995 19.0219998,34.1160006 19.066,34.004 C19.1100002,33.8919994 19.1799995,33.7880005 19.276,33.692 L21.928,31.064 C22.328002,30.663998 22.6659986,30.2520021 22.942,29.828 C23.2180014,29.4039979 23.356,28.9760022 23.356,28.544 C23.356,28.135998 23.2360012,27.8220011 22.996,27.602 C22.7559988,27.3819989 22.4600018,27.272 22.108,27.272 C21.7319981,27.272 21.4320011,27.367999 21.208,27.56 C20.9839989,27.752001 20.8160006,28.0159983 20.704,28.352 C20.6239996,28.4960007 20.5320005,28.5959997 20.428,28.652 C20.3239995,28.7080003 20.168001,28.7200002 19.96,28.688 L19.108,28.544 C19.2280006,27.6959958 19.5639972,27.0600021 20.116,26.636 C20.6680028,26.2119979 21.3559959,26 22.18,26 C22.5960021,26 22.9739983,26.0599994 23.314,26.18 C23.6540017,26.3000006 23.9439988,26.4679989 24.184,26.684 C24.4240012,26.9000011 24.6099993,27.1619985 24.742,27.47 C24.8740007,27.7780015 24.94,28.1199981 24.94,28.496 C24.94,28.8160016 24.8900005,29.1139986 24.79,29.39 C24.6899995,29.6660014 24.5560008,29.9279988 24.388,30.176 C24.2199992,30.4240012 24.0280011,30.6639988 23.812,30.896 C23.5959989,31.1280012 23.3680012,31.3639988 23.128,31.604 L21.172,33.584 C21.364001,33.5359998 21.5539991,33.4960002 21.742,33.464 C21.9300009,33.4319998 22.1079992,33.416 22.276,33.416 L24.616,33.416 Z" id="Path"></path>
             </g>
         </g>
     </g>

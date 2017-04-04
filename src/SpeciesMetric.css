@@ -1,12 +1,13 @@
 .SpeciesMetric {
   padding-left: 50px;
   padding-right: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .SpeciesMetric-header {
   display: flex;
-  padding-bottom: 15px;
+  padding-bottom: 25px;
+  margin-left: 50px;
 }
 
 .SpeciesMetric-header-icon {

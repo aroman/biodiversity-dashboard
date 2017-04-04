@@ -6,8 +6,8 @@
   box-sizing: border-box;
   width: 480px;
   height: 1080px;
-  border: 1px solid black;
-  padding-top: 30px;
+  /*border: 1px solid black;*/
+  padding-top: 25px;
 }
 
 .Column-left {
@@ -28,5 +28,29 @@
   font-size: 46px;
   font-weight: 300;
   text-align: center;
-  padding-bottom: 60px;
+  padding-bottom: 70px;
+}
+
+.WaterBG {
+  position: absolute;
+  bottom: 0;
+}
+
+.WaterLevel {
+  position: absolute;
+  bottom: 0;
+  z-index: -999;
+  animation: 3s wub ease-in-out infinite;
+}
+
+@keyframes wub {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
 }
