@@ -1,0 +1,27 @@
+.SpeciesMetric {
+  padding-left: 50px;
+  padding-right: 50px;
+  margin-bottom: 50px;
+}
+
+.SpeciesMetric-header {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+.SpeciesMetric-header-icon {
+  height: 40px;
+}
+
+.SpeciesMetric-header-label {
+  margin-top: 5px;
+  font-size: 28px;
+  margin-left: 20px;
+}
+
+.SpeciesMetric-contents {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

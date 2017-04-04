@@ -1,35 +1,36 @@
-.Impact-panel {
+.ImpactMetric {
   padding-left: 25px;
   padding-right: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 75px;
+  height: 150px;
 }
 
-.Impact-panel-header {
+.ImpactMetric-header {
   display: flex;
   padding-bottom: 25px;
 }
 
-.Impact-panel-header-icon {
+.ImpactMetric-header-icon {
   height: 40px;
 }
 
-.Impact-panel-header-label {
+.ImpactMetric-header-label {
   margin-top: 5px;
   font-size: 28px;
   margin-left: 20px;
 }
 
-.Impact-panel-stats {
+.ImpactMetric-stats {
   display: flex;
   font-size: 20px;
   justify-content: space-around;
   font-weight: 700;
 }
 
-.Impact-panel-stats-value-container {
+.ImpactMetric-stats-value-container {
   display: flex;
 }
 
-.Impact-panel-stats-value {
+.ImpactMetric-stats-value {
   margin-left: 10px;
 }

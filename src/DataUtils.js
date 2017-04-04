@@ -1,7 +1,7 @@
 // taken from https://github.com/borisyankov/react-sparklines/blob/master/demo/demo.js
 function boxMullerRandom () {
     let phase = false,
-        x1, x2, w, z;
+        x1, x2, w;
 
     return (function() {
 
